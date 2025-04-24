@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LazyMoo - $LAZYM</title>
+    <meta name="description" content="LazyMoo ($LAZYM) - A Web3 project where rest and success go hand in hand." />
+    <meta name="theme-color" content="#ec4899" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      .header-bg {
+        background-image: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD...'); /* <-- تم اختصار الباقي */
+        background-size: cover;
+        background-position: center;
+      }
+    </style>
+  </head>
+  <body class="bg-gray-900 text-white font-sans">
+
+    <!-- Header -->
+    <header class="header-bg text-center py-20 relative">
+      <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD...==" alt="LazyMoo Logo" class="w-24 h-24 rounded-full mx-auto mb-4 border-4 border-white shadow-lg" />
+      <h1 class="text-5xl font-bold mb-2 drop-shadow-lg">🐮 LazyMoo</h1>
+      <p class="text-xl tracking-wider drop-shadow-md">$LAZYM</p>
+    </header>
+
+    <!-- Narrative -->
+    <section class="max-w-4xl mx-auto px-6 py-12">
+      <h2 class="text-3xl font-semibold mb-6 text-pink-400">Welcome to LazyMoo — where chill meets hustle.</h2>
+      <p class="text-lg text-gray-300 mb-4">In a world that never stops grinding, LazyMoo is here to flip the script. We're building a laid-back but laser-focused community that believes you don’t have to burn out to break through.</p>
+      <p class="text-lg text-gray-300 mb-4">Whether you're a degenerate, a dreamer, or just vibing with the herd, LazyMoo is your pasture of peace in the wild world of Web3.</p>
+      <p class="text-lg text-gray-300 mb-4">We’re not just another meme project. We’re a movement. Powered by community, fueled by fun, and driven by the idea that rest and success can ride side by side.</p>
+      <p class="text-lg text-gray-300 mb-4">No pressure. No drama. Just good vibes, strong memes, and a roadmap that doesn’t stress you out.</p>
+      <p class="text-lg text-gray-300">So kick back, grab some grass, and let’s make lazy legendary.</p>
+    </section>
+
+    <!-- Features -->
+    <section class="bg-gray-800 py-12 px-6">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-3xl font-semibold text-pink-400 mb-8">Why LazyMoo?</h2>
+        <ul class="space-y-4 text-gray-300 text-lg">
+          <li>🚀 <strong>Chill-to-Earn:</strong> Reward yourself for resting — we reward smarts, not burnout.</li>
+          <li>👨‍🌾 <strong>Farm Community:</strong> Join the herd: memes, support, and decentralized decision-making.</li>
+          <li>🌙 <strong>Your Sleep = Your Growth:</strong> With smart strategies and thoughtful rest, we build a sustainable project.</li>
+          <li>🧠 <strong>Smart, Not Stressed:</strong> Transparency, a simple plan, and a team that’s busy — but not burned out.</li>
+          <li>🔥 <strong>Web3 with Relaxation:</strong> No complicated networks or FOMO. Just useful tools, a communal spirit, and fun without stress.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Community Links -->
+    <section class="py-10 text-center">
+      <h3 class="text-xl font-semibold mb-4 text-pink-400">🌐 Join the Herd</h3>
+      <div class="space-y-4">
+        <a href="https://t.me/laazymoo" target="_blank" class="inline-block bg-pink-600 hover:bg-pink-700 text-white px-6 py-3 rounded-full text-lg transition">
+          🐮 Telegram: @laazymoo
+        </a>
+        <br />
+        <a href="https://x.com/laazymoo" target="_blank" class="inline-block bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-full text-lg transition">
+          🐦 Twitter (X): @laazymoo
+        </a>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center py-6 border-t border-gray-700 text-sm text-gray-500">
+      © 2025 LazyMoo. Stay lazy, stay legendary.
+    </footer>
+
+  </body>
+</html>
